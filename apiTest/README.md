@@ -21,6 +21,6 @@ Once application is running you can visit get enpoint http://localhost:8080/api/
 Port number change according to yours and also last number according to ref that you would like to see
 
 ### Info
-This app purpose is excercise. It is lucking a lot of security and exception handlers. It is real world app and is not recommended to use in any projects.
+This app purpose is excercise. It is lucking a lot of security and exception handlers. It is not real world app and is not recommended to use in any projects.
 
 
